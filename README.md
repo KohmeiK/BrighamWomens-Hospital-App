@@ -48,6 +48,8 @@ Make sure you have [Java 8](https://www.oracle.com/technetwork/java/javase/downl
    ```sh
    java -jar /Path/To/Downloaded/Folder/CS3733-C21-Team-U-Project-BWApp.jar
    ```
+   
+Please use the buttons on the bottom left of the starting screen to simulate logging in if you don't know any usernames / passwords.
 
 ### Download and Run the Source Code
 
