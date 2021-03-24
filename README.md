@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Kohmei358/BrighamWomens-Hospital-App)
+[![Product Name Screen Shot][product-screenshot]](https://youtu.be/84nr0pFNmIE)
 
 This Application for Brigham and Women’s Hospital was developed to assist hospital
 employees and administrators with their daily tasks, as well as train students in the WPI CS
