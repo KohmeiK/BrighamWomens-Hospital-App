@@ -63,7 +63,7 @@ Download the bin distribution – the first link ending in .zip. Then double-cli
    ```sh
    gradle build
    ```
-4. Run the ```main.java``` or ```App.java``` file inside ```/src/main/java/edu/wpi/u/'''
+4. Run the ```main.java``` or ```App.java``` file inside ```/src/main/java/edu/wpi/u/```
 
 
 
